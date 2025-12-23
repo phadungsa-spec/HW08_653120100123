@@ -1,0 +1,15 @@
+D:\OOP\Homework\HW08\HW08_653120100123\cs\obj\Debug\net7.0\cs.csproj.AssemblyReference.cache
+D:\OOP\Homework\HW08\HW08_653120100123\cs\obj\Debug\net7.0\cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Homework\HW08\HW08_653120100123\cs\obj\Debug\net7.0\cs.AssemblyInfoInputs.cache
+D:\OOP\Homework\HW08\HW08_653120100123\cs\obj\Debug\net7.0\cs.AssemblyInfo.cs
+D:\OOP\Homework\HW08\HW08_653120100123\cs\obj\Debug\net7.0\cs.csproj.CoreCompileInputs.cache
+D:\OOP\Homework\HW08\HW08_653120100123\cs\bin\Debug\net7.0\cs.exe
+D:\OOP\Homework\HW08\HW08_653120100123\cs\bin\Debug\net7.0\cs.deps.json
+D:\OOP\Homework\HW08\HW08_653120100123\cs\bin\Debug\net7.0\cs.runtimeconfig.json
+D:\OOP\Homework\HW08\HW08_653120100123\cs\bin\Debug\net7.0\cs.dll
+D:\OOP\Homework\HW08\HW08_653120100123\cs\bin\Debug\net7.0\cs.pdb
+D:\OOP\Homework\HW08\HW08_653120100123\cs\obj\Debug\net7.0\cs.dll
+D:\OOP\Homework\HW08\HW08_653120100123\cs\obj\Debug\net7.0\refint\cs.dll
+D:\OOP\Homework\HW08\HW08_653120100123\cs\obj\Debug\net7.0\cs.pdb
+D:\OOP\Homework\HW08\HW08_653120100123\cs\obj\Debug\net7.0\cs.genruntimeconfig.cache
+D:\OOP\Homework\HW08\HW08_653120100123\cs\obj\Debug\net7.0\ref\cs.dll
