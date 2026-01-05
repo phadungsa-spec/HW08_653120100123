@@ -1,0 +1,15 @@
+D:\OOP\Homework\HW08\HW08_653120100123\cs\Stack\bin\Debug\net7.0\Stack.exe
+D:\OOP\Homework\HW08\HW08_653120100123\cs\Stack\bin\Debug\net7.0\Stack.deps.json
+D:\OOP\Homework\HW08\HW08_653120100123\cs\Stack\bin\Debug\net7.0\Stack.runtimeconfig.json
+D:\OOP\Homework\HW08\HW08_653120100123\cs\Stack\bin\Debug\net7.0\Stack.dll
+D:\OOP\Homework\HW08\HW08_653120100123\cs\Stack\bin\Debug\net7.0\Stack.pdb
+D:\OOP\Homework\HW08\HW08_653120100123\cs\Stack\obj\Debug\net7.0\Stack.csproj.AssemblyReference.cache
+D:\OOP\Homework\HW08\HW08_653120100123\cs\Stack\obj\Debug\net7.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Homework\HW08\HW08_653120100123\cs\Stack\obj\Debug\net7.0\Stack.AssemblyInfoInputs.cache
+D:\OOP\Homework\HW08\HW08_653120100123\cs\Stack\obj\Debug\net7.0\Stack.AssemblyInfo.cs
+D:\OOP\Homework\HW08\HW08_653120100123\cs\Stack\obj\Debug\net7.0\Stack.csproj.CoreCompileInputs.cache
+D:\OOP\Homework\HW08\HW08_653120100123\cs\Stack\obj\Debug\net7.0\Stack.dll
+D:\OOP\Homework\HW08\HW08_653120100123\cs\Stack\obj\Debug\net7.0\refint\Stack.dll
+D:\OOP\Homework\HW08\HW08_653120100123\cs\Stack\obj\Debug\net7.0\Stack.pdb
+D:\OOP\Homework\HW08\HW08_653120100123\cs\Stack\obj\Debug\net7.0\Stack.genruntimeconfig.cache
+D:\OOP\Homework\HW08\HW08_653120100123\cs\Stack\obj\Debug\net7.0\ref\Stack.dll
